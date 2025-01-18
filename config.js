@@ -12,7 +12,7 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // [ES] > Agrega el número que será Bot y los que serán propietarios.
 global.owner = [
-["5215659294359‬", 'Michh ventasss', true], //la michh
+["5215659294359U+202C‬", 'Michh ventasss', true], //la michh
 ["5218336105471", 'TILIN VENTAS', true], //CREADOR 
 ["5215659294359‬"]]
 
